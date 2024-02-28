@@ -1,0 +1,16 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.codearix.teto",
+            "sha256_cert_fingerprints": [
+                "79:05:C0:43:83:D1:E6:79:92:3A:AF:0E:06:D7:8A:A2:A3:1F:9A:C3:15:AA:9C:A2:49:B9:C6:4B:F3:63:03:61",
+                "A5:1C:24:FF:8D:02:81:F7:09:24:C6:3C:66:BC:A0:93:A6:9A:4C:D9:3B:74:94:C3:82:CE:6E:18:52:EE:12:6C",
+                "F1:88:FA:35:78:51:DE:92:90:12:F0:77:B4:E7:38:F7:21:1D:DC:5E:CE:07:B7:B6:7B:3A:05:05:A1:53:06:25"
+            ]
+        }
+    }
+]

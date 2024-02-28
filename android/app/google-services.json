@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "646101671159",
+    "firebase_url": "https://tutu-3a269-default-rtdb.firebaseio.com",
+    "project_id": "tutu-3a269",
+    "storage_bucket": "tutu-3a269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646101671159:android:d3a73afae7d807ffa287f2",
+        "android_client_info": {
+          "package_name": "com.codearix.teto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646101671159-u8eenjhgi2te59ks5n3b6ku0ue4b1r45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codearix.teto",
+            "certificate_hash": "b1bfbec8259d3186649b03d5753f20e8962c4727"
+          }
+        },
+        {
+          "client_id": "646101671159-ohnlqe35aknuk9cvpjlvg0v9k50roj6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnGfGpbykRg-5zXxQnAWAb7zPfiBrblxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646101671159-8f9i971jgcd9riulqo3qd5pq1clq2f5a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "646101671159-31772mmirg5q2uoho9jd84h3kk5oq584.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codearix.t2.provider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646101671159:android:e45e3332a2db0e8fa287f2",
+        "android_client_info": {
+          "package_name": "com.codearix.teto.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646101671159-7slq9ikcsa689e2gt20ru26qvaedkkdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codearix.teto.provider",
+            "certificate_hash": "b1bfbec8259d3186649b03d5753f20e8962c4727"
+          }
+        },
+        {
+          "client_id": "646101671159-ohnlqe35aknuk9cvpjlvg0v9k50roj6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnGfGpbykRg-5zXxQnAWAb7zPfiBrblxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646101671159-8f9i971jgcd9riulqo3qd5pq1clq2f5a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "646101671159-31772mmirg5q2uoho9jd84h3kk5oq584.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codearix.t2.provider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451737601103",
+    "firebase_url": "https://souq-b74d2-default-rtdb.firebaseio.com",
+    "project_id": "souq-b74d2",
+    "storage_bucket": "souq-b74d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451737601103:android:92979e534982037563963a",
+        "android_client_info": {
+          "package_name": "com.codearix.teto.souq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451737601103-85a3ckric3odugnoqnd4fve0p1i227er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnMdZZMogc5fPn__IYFaz0WtUkQq87raw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451737601103-85a3ckric3odugnoqnd4fve0p1i227er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
